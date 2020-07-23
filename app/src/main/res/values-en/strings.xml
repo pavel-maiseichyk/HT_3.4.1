@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HT_3.3.2</string>
+
+    <string-array name="themes">
+        <item>Black</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string name="changeButton">Change</string>
+    <string name="text">Would like to know what needs to be done to improve the code)</string>
+</resources>

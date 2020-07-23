@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HT_3.3.2</string>
+    <string-array name="languages">
+        <item>RU</item>
+        <item>EN</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+
+    <string name="changeButton">Изменить</string>
+    <string name="text">Хотелось бы услышать критику)</string>
+</resources>
